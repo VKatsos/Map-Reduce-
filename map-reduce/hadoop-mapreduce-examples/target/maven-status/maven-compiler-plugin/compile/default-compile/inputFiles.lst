@@ -1,0 +1,3 @@
+/vagrant/hadoop-mapreduce-examples/src/main/java/gr/aueb/panagiotisl/mapreduce/wordcount/SpotifyReducer.java
+/vagrant/hadoop-mapreduce-examples/src/main/java/gr/aueb/panagiotisl/mapreduce/wordcount/Driver.java
+/vagrant/hadoop-mapreduce-examples/src/main/java/gr/aueb/panagiotisl/mapreduce/wordcount/SpotifyMapper.java
